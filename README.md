@@ -1,1 +1,45 @@
-# Luigi-Becerra
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luigi's World</title>
+</head>
+
+<body>
+    <header>WEB DEVELOPMENT</header>
+
+
+
+<h1>Welcome to my website</h1>
+ <h2>My name is Luigi B</h2>
+          <h1>About me</h1>
+         <H3>Something about me is that I am a student at Campuswire. I am currently studying Information of Technology and I have a passion for programming and technology. In my free time, I enjoy reading books and exploring new places. I am also interested in growing my profeessional career. 
+</H3>
+   
+<main>
+    <h1>My Skills</h1>
+    <ul>
+        <li>Lifesys</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>SQL</li>
+    </ul>
+    
+<section>
+    <h1>My Interests</h1>
+    <ul>
+        <li>Reading books</li>
+        <li>Exploring new places</li>
+        <li>Programming</li>
+        <li>Technology</li>
+    </ul>
+    <h1>I work at NTT Data/ F&G Annuities and Life</h1>
+<image src="https://www.nttdata.com/global/en/-/media/nttdata-com/images/press-releases/2022/ntt-data-acquires-fg-annuities-and-life.jpg" alt="NTT Data Logo" width="500" height="300">
+<footer
+>
+    <p>Contact me at: lbecerra@campus.edu
+            
+</body>
+</html>
